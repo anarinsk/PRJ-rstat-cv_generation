@@ -1,8 +1,8 @@
-# Project for generating nice CV with R Blogdown 
+# Project for generating nice CV with R Pagedown
 
 ## Purpose 
 
-WIth Blogdown of R, I try to generate nice and easy CV with automated process 
+WIth Pagedown of R, I try to generate nice and easy CV with automated process 
 
 ## References 
 
